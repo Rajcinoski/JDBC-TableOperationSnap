@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <echo file="C:\Users\petar.rajchinoski\eclipse-workspace\tableCopy\target/classes/build.properties">build_number=0001
+                                    snap_pack_version=1
+                                    snap_pack_fqid=tableCopy-snap-1-0001.zip
+                                    snap_pack_url=$SNAP_HOME/tableCopy/target/tableCopy-build
+                                    snap_pack_name=${NAME}</echo>
+</target>
+</project>
